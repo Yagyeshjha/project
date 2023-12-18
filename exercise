@@ -9,3 +9,4 @@ git config --global user.name ""
 git config --global user.email ""
 git checkout -b
 git remote -v
+git pull origin main
